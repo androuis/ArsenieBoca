@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/set_screensaver"
+        android:title="@string/set_screensaver"/>
+    <item android:id="@+id/set_wallpaper"
+        android:title="@string/set_wallpaper"/>
+</menu>
